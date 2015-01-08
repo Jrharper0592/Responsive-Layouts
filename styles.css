@@ -4,23 +4,17 @@
 	box-sizing: Border box;
 	
 }
-header {
-		background-image: url(http://static.squarespace.com/static/51808229e4b03c6b86a5fe3a/t/51fb2e11e4b07e1682eca8cf/1375415826428/vacation3.jpg);
-		min-height: 400px;
-		background-size: cover;
-		max-width: 100%;
 
-}
+
+
 
 .grid {
-	font-size: px;
 	text-align: justify;
 	position: relative;
 	display: inline-block;
  	min-width: 100%;
  	overflow-y: auto;
  	background-color: blue;
- 	font:black;
 }
 
 .grid > *{
@@ -42,27 +36,23 @@ header {
 }
 
 * input {background-color: #33ccff;
-		padding: 10px;
 		font-size: 20px;
 		border-color: white;
-		border-width: 5px;
-		margin-top: 10%;
-		
+		border-width: 2px;
+		width:75%;
 	}	
 
 * select {
 		background-color: #33ccff;
 		border-color: white;
-		border-width: 5px;
+		border-width: 2px;
 		font-size: 20px;
-		margin-top: 10%;
-		
+		width:75%;
 
 		}
 * textarea {
-			margin:15% 0 1.5em 0;
 			background-color: #33ccff;
-
+			width:75%;
 
 } 
 
