@@ -14,7 +14,7 @@
 	display: inline-block;
  	min-width: 100%;
  	overflow-y: auto;
- 	background-color: blue;
+ 	background-color: #008AE6;
 }
 
 .grid > *{
@@ -30,7 +30,7 @@
 		min-height:600px;
 		max-width: 100%;
 		position: relative;
-		background-color: blue;
+		background-color: #008AE6;
 		text-align: justify;
 			
 }
